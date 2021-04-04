@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">TicTacToe</string>
-    <string name="Heading">Welcom to Tic-Tac-Toe</string>
+    <string name="Heading">Welcome to Tic-Tac-Toe</string>
     <string name="grid">OurMainGrid</string>
+    <string name="oturn">O turn</string>
+    <string name="xturn">X Turn</string>
+    <string name="xwin">X won</string>
+    <string name="owon">O won</string>
+    <string name="draw">Game is Draw</string>
+    <string name="reset">Reset</string>
 </resources>
